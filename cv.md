@@ -1,7 +1,6 @@
 # Artsem Rydlevich
 
-[U-0-F-d-TLDy-Y.jpg](https://postimg.cc/w3RKKMGq)
-
+![foto](https://i.postimg.cc/2j2CZBdZ/U-0-F-d-TLDy-Y.jpg)
 
 **Contacts**
 * Email: harword1234567@yandex.ru
