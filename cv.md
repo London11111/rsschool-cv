@@ -1,9 +1,13 @@
 # Artsem Rydlevich
-harword1234567@yandex.ru
-+375259183374
-Discord:Yamaha #3383(@London11111)
+![personalPhoto](E:\U-0F_dTLDyY)
+=====
+## harword1234567@yandex.ru
+## +375259183374
+## Discord:Yamaha #3383(@London11111)
+=====
+This CV is my first project.
 Code examples:
-```function isPrime(num) {
+*```function isPrime(num) {
     
   if (num===2){
     return true;
@@ -27,7 +31,7 @@ Code examples:
     return true;
   }
   ```
-  ```function breakChocolate(n,m) {
+ * ```function breakChocolate(n,m) {
 
 if ( n>=1 && m>=1 ){
  
