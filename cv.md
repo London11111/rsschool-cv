@@ -1,12 +1,32 @@
 # Artsem Rydlevich
-![personalPhoto](E:\U-0F_dTLDyY)
-=====
-## harword1234567@yandex.ru
-## +375259183374
-## Discord:Yamaha #3383(@London11111)
-=====
-This CV is my first project.
-Code examples:
+====
+
+**Contacts**
+* Email: harword1234567@yandex.ru
+* Phone: +375259183374
+* Discord: Yamaha #3383(@London11111)
+
+
+**About me**
+I am 25 years old. I am working as electrical engineer for 4 years. Now i am thinking about changing profession. So, i want to master new speciality and work as front-end developer in future. 
+
+
+**Work expirience**
+For 4 years i'm working as electrical engineer. As for front-end developer, i don't have any expirience in IT development.
+
+
+**Education**
+* Belarussian-Russian University
++ Automatic Electric Drives. Electic Drive and Automation of Indusrtial Units (2013-2018).
++ Master's degree course electrical engeneering (2018-2019).
+* St.Petersburg Polytechinc University of Peter the Great. Intelligent control systems (2017).
+
+
+**Forieng languages**
+* English (B1-Intermediate)
+
+
+**Code example**
 ```function isPrime(num) {
     
   if (num===2){
@@ -31,16 +51,4 @@ Code examples:
     return true;
   }
   ```
-  ```function breakChocolate(n,m) {
-
-if ( n>=1 && m>=1 ){
  
- res = (n * m)-1; 
-
-  return (res);
-}  
-  
-return 0;
-  
-}
-```
