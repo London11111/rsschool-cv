@@ -10,12 +10,12 @@
 
 **About me**
 
-I am 25 years old. I am working as electrical engineer for 4 years. Now i am thinking about changing profession. So, i want to master new speciality and work as front-end developer in future. 
+I am 25 years old. I am working as electrical engineer for 4 years. Now i am thinking about changing profession. So, i want to master a new speciality and work as front-end developer in future. 
 
 
 **Work expirience**
 
-For 4 years i'm working as electrical engineer. As for front-end developer, i don't have any expirience in IT development.
+For 4 years i'm working as electrical engineer. As for front-end developer speciality, i don't have any expirience in IT development.
 
 
 **Education**
