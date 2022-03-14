@@ -7,7 +7,7 @@
 =====
 This CV is my first project.
 Code examples:
-*```function isPrime(num) {
+```function isPrime(num) {
     
   if (num===2){
     return true;
@@ -31,7 +31,7 @@ Code examples:
     return true;
   }
   ```
- * ```function breakChocolate(n,m) {
+  ```function breakChocolate(n,m) {
 
 if ( n>=1 && m>=1 ){
  
